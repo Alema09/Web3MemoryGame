@@ -4,8 +4,7 @@ Memory games can improve brain functions such as concentration, attention and co
 
 This is the Blockchain based memory game. If you find matches you can collect them.
 
-![image](https://user-images.githubusercontent.com/82282639/202163470-17d3613b-b735-4be1-9563-b3f4e9e89f29.png)
-
+![image](https://user-images.githubusercontent.com/82282639/202164811-42ee07fe-8b14-4cb7-9478-b47228879de3.png)
 
 
 
