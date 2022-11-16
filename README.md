@@ -41,7 +41,8 @@ Run app
 
 5. Open command line and change directory to the Web3MemoryGame.
 
-6.  Compile & deploy smart contracts 
+6.  Compile & deploy smart contracts.
+
 Open another terminal pointing to project and paste
 ```bash
   truffle migrate --reset
