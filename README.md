@@ -41,6 +41,13 @@ Run app
 
 5. Open command line and change directory to the Web3MemoryGame.
 
-6. Paste "npm run start"
+6.  Compile & deploy smart contracts 
+Open another terminal pointing to project and paste
+```bash
+  truffle migrate --reset
+```
 
-7. Open another command line and paste "truffle migrate --reset".
+7. Run app
+```bash
+  npm run start
+```
