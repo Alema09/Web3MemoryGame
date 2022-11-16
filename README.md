@@ -34,7 +34,8 @@ Run app
 2. Add project and choose file "truffle-config.js"
 
 3. In the metamask open click "Networks" and click "Add Network"
-![image](https://user-images.githubusercontent.com/82282639/202163103-615dbbc8-7222-4bb4-8244-62903151c189.png)
+
+ ![image](https://user-images.githubusercontent.com/82282639/202163103-615dbbc8-7222-4bb4-8244-62903151c189.png)
 
 4. Click to the Account and click "Import cash". Paste private key from Ganache.
 
