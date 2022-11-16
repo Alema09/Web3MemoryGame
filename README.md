@@ -1,4 +1,6 @@
 ﻿# BlockchainMemoryGame
+ 
+ Download repository(git clone https://github.com/Alema09/Web3MemoryGame/tree/master"
 
 1. Download and Install MetaMask
 2. Download Ganache from github
