@@ -1,6 +1,6 @@
 ﻿# BlockchainMemoryGame
  
-Memory games can improve brain functions such as concentration, attention and concentration. The player's attention develops attention to detail and helps to improve visual recognition.
+Memory games can improve brain functions such as attention and concentration. The player's attention develops attention to detail and helps to improve visual recognition.
 
 This is the Blockchain based memory game. If you find matches you can collect them.
 
